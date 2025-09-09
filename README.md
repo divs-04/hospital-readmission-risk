@@ -1,4 +1,4 @@
-# Predicting Hospital Readmissions: From General Population to Diabetic-Specific Risk Modeling
+# Predictive Analytics for Healthcare Risk(Hospital Re-admissions)
 
 ## Overview
 
@@ -84,3 +84,4 @@ This project is for educational and research purposes. Please cite appropriately
 ## Contact
 
 For questions or collaboration, please reach out via GitHub or email.
+
